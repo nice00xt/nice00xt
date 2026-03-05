@@ -9,7 +9,7 @@ Want to see what I can build? Try this mini project!
 🚀 [Simple piano Note Practice](https://piano-card.vercel.app/lesson)
 
 Know more about me:
-[juanx.dev](https://juanxdev)
+[juanx.dev](https://juanx.dev)
 
 ### Tech Stack
 
