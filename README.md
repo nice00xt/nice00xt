@@ -8,6 +8,9 @@ Want to see what I can build? Try this mini project!
 
 🚀 [Simple piano Note Practice](https://piano-card.vercel.app/lesson)
 
+Know more about me:
+[juanx.dev](https://juanxdev)
+
 ### Tech Stack
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
