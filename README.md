@@ -30,7 +30,7 @@ Music enthusiast and video game fan. 🎹🎮
     <td width="50%" valign="top">
       <h3 align="center">🃏 Persona 3 Compendium</h3>
       <p align="center">
-        UI to browse the full Persona 3 Reload compendium, built through deliberate, AI-guided development to match the original menu pixel-for-pixel and preserve game feel and flow.
+        UI to browse the full Persona 3 Reload compendium, built through deliberate, AI-guided development to match the original menu pixel-for-pixel and preserve game feel and flow. (Done just for fun)
       </p>
       <p align="center">
         <a href="https://p3r-compendium.vercel.app">
